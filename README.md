@@ -1,11 +1,11 @@
 [![resume](https://img.shields.io/badge/download-resume-blue.svg)](https://github.com/LeDerouxe/LeDerouxe/blob/main/resume2024.10.26.pdf)
 
-- 👋 Hi, I’m Amirreza
+- 👋 Hi, It’s Amirreza
 - 🧪 I’m Android and kotlin Expert
 - 👀 I’m interested in Anything Interesting
-- 🔭 I’m currently working on Mobile Projects
+- 🔭 I’m currently working on various Projects
 - 🌱 I’m currently learning Computer!
-- ⚡ Fun fact: Actually we're trying to be Robots
+- ⚡ Fun fact: Actually we're trying to be Robots with heart.
   <div  align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lederouxe&theme=gotham&layout=compact" alt="Top Langs" style="width:400px;"/>
   </div>
