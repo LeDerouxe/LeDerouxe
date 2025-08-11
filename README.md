@@ -1,11 +1,9 @@
-[![resume](https://img.shields.io/badge/download-resume-blue.svg)](https://github.com/LeDerouxe/LeDerouxe/blob/main/resume2025.05.19.pdf)
+[![resume](https://img.shields.io/badge/download-resume-blue.svg)](https://github.com/LeDerouxe/LeDerouxe/blob/main/resume-2025-8-9.pdf)
 
 - 👋 Hi, It’s Amirreza
 - 🧪 I’m Android and kotlin Expert
-- 👀 I’m interested in Anything Interesting
-- 🔭 I’m currently working on various Projects
-- 🌱 I’m currently learning Computer!
-- ⚡ Fun fact: Actually we're trying to be Robots with heart.
+- 🌱 I’m interested in Anything Interesting
+- ⚡ Focus on the Donut itself!
   <div  align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lederouxe&theme=gotham&layout=compact" alt="Top Langs" style="width:400px;"/>
   </div>
