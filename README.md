@@ -3,8 +3,9 @@
 - 👋 Hi, It’s Amirreza
 - 🧪 I’m Mobile Develope Expert
 - 🌱 I’m interested in Anything Interesting
-- ⚡ Focusing on the Donut itself!
 - 🔥 Really into competitive programming
+- ⚡ Focusing on the Donut itself!
+
   <div  align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lederouxe&theme=gotham&layout=compact" alt="Top Langs" style="width:400px;"/>
   </div>
