@@ -1,9 +1,10 @@
 [![resume](https://img.shields.io/badge/download-resume-blue.svg)](https://github.com/LeDerouxe/LeDerouxe/blob/main/resume-2025-8-9.pdf)
 
 - 👋 Hi, It’s Amirreza
-- 🧪 I’m Android and kotlin Expert
+- 🧪 I’m Mobile Develope Expert
 - 🌱 I’m interested in Anything Interesting
-- ⚡ Focus on the Donut itself!
+- ⚡ Focusing on the Donut itself!
+- 🔥 Really into competitive programming
   <div  align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lederouxe&theme=gotham&layout=compact" alt="Top Langs" style="width:400px;"/>
   </div>
