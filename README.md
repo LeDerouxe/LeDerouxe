@@ -1,10 +1,10 @@
 [![resume](https://img.shields.io/badge/download-resume-blue.svg)](https://github.com/LeDerouxe/LeDerouxe/blob/main/resume-2025-11-14.pdf)
 
 - 👋 Hi, It’s Amirreza
-- 🧪 I’m Mobile Develope Expert
+- 🧪 I’m Mobile Develop Expert
 - 🌱 interested in Anything Interesting
 - 🔥 Really into competitive programming
-- 🌗 Quantum Comouting researcher
+- 🌗 Quantum Computing researcher
 - ⚡ Focusing on the Donut itself!
 
   <div  align="center">
