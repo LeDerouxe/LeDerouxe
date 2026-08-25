@@ -1,4 +1,4 @@
-[![resume](https://img.shields.io/badge/download-resume-blue.svg)](https://github.com/LeDerouxe/LeDerouxe/blob/main/resume-2025-11-14.pdf)
+[![resume](https://img.shields.io/badge/download-resume-blue.svg)](https://github.com/LeDerouxe/LeDerouxe/blob/main/resume-2026-08-25.pdf)
 
 - 👋 Hi, It’s Amirreza
 - 🧪 I’m Mobile Development Expert
